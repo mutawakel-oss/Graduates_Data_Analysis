@@ -15,4 +15,13 @@ Following box plot graph illustrates the distribition of graduate`s final GPA on
 ![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/GPA%20Box%20Plot_All_Campus_Wise.png)
 Following box plot graph illustrates the counts of graduates among the University colleges and academic programs:
 ![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduate%20Counts_All.png)
-
+Following bar graph illustrates the counts of graduates among the University colleges and academic programs grouped by genders:
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduate%20Counts_All_Campus_Wise.png)
+Following box plot graphs illustrates the distribition of graduate`s final GPA on separated colleges
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20CAMS.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20COD.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20COM.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20CON.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20COP.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20CPHHI.png)
+![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Graduates%20GPA%20Distirbution%20MME.png)
