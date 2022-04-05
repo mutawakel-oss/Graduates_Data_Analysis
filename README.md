@@ -1,2 +1,4 @@
-# Graduates_Data_Analysis
-This repository is for the project of analyzing the graduates data of a University
+# Graduates Data Analysis
+I have worked as a data analyst in this project.
+
+The main objective of this project was to analyze the graduates data of a University to get insights about some patterns in graduates data of last 15 y
