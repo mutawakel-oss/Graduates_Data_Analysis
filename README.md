@@ -9,6 +9,7 @@ Following heatmap chart illustrates the correlation level of graduation data whi
 ![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/Correlation%20Heat%20Map%20Diagram.png)
 
 Following box plot graph illustrates the distribition of graduate`s final GPA on colleges:
+
 ![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/GPA%20Box%20Plot_All.png)
 Following box plot graph illustrates the distribition of graduate`s final GPA on colleges gender based:
 ![Sample Graph](https://github.com/mutawakel-oss/Graduates_Data_Analysis/blob/main/GPA%20Box%20Plot_All_Campus_Wise.png)
